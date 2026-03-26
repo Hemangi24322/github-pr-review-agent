@@ -152,3 +152,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [shadcn/ui](https://ui.shadcn.com/)
 - [GitHub API](https://docs.github.com/en/rest)
 - [LangChain](https://js.langchain.com/)
+
+I have changed the LLM from OpenAI to Gemini.
